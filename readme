@@ -1,0 +1,7 @@
+cd /home/project
+mkdir myexpressapp
+cd myexpressapp
+npm install express --save
+npm install --save-dev nodemon
+
+These will need to be run in the console to install required framework and packages.

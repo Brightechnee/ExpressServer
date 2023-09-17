@@ -4,4 +4,6 @@ cd myexpressapp
 npm install express --save
 npm install --save-dev nodemon
 
-These will need to be run in the console to install required framework and packages.
+The above will need to be run in the console to install required framework and packages.
+
+https://labs.cognitiveclass.ai/v2/tools/cloud-ide-kubernetes?ulid=ulid-bd97c7725c88f8c63ecd8c738799152dd16780a2
